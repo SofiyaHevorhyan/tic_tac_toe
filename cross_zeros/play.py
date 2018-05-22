@@ -1,5 +1,6 @@
 # File: play.py
 # A simple module for playing tic tac toy game
+# By Sofiya Hevorhyan
 
 from cross_zeros.board import Board
 from cross_zeros.people import Player, Bot
